@@ -1,8 +1,6 @@
 # Project Name
 > BestShop 
 >Project for coders lab course
-> Live demo [_here_](distracted-kirch-11c3ff). <!-- If you have the project hosted somewhere, include the link here. -->
-
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
