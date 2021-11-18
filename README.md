@@ -1,7 +1,7 @@
 # Project Name
 > BestShop 
 >Project for coders lab course
-> Live demo [_here_](https://app.netlify.com/sites/distracted-kirch-11c3ff/settings/general#:~:text=distracted%2Dkirch%2D11c3ff.netlify.app). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](distracted-kirch-11c3ff). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
