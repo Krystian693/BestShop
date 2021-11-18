@@ -1,7 +1,7 @@
 # Project Name
 > BestShop 
 >Project for coders lab course
-> Live demo [_here_](https://www.example.com). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [_here_](https://app.netlify.com/sites/distracted-kirch-11c3ff/settings/general#:~:text=distracted%2Dkirch%2D11c3ff.netlify.app). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -70,12 +70,4 @@ Give credit here.
 - Many thanks to...
 
 
-## Contact
-Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
